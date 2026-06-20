@@ -1,0 +1,5 @@
+5 xiaoli 18 65 78 90
+2 xiaowang 21 96 50 72
+3 xiaowei 16 98 86 90
+1 xiaozhang 36 81 78 77
+4 xiaotian 19 56 80 74
